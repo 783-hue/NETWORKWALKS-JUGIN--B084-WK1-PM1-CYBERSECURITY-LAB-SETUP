@@ -197,7 +197,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 | 🔄 Verify snapshot            | Restore snapshot and run `ip a` | Baseline configuration restored |
 
 ### Example Results
-
+![](5-Screenshot-outcomes.png)
 ```text
 IP Address:
 10.0.0.2/24
