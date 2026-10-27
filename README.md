@@ -163,7 +163,7 @@ Example configuration:
 
 ```text
 IP Address: 10.0.0.2
-Subnet Mask: 255.255.255.0
+Subnet Mask: 24
 Gateway: 10.0.0.1
 DNS: 10.0.0.1
 ```
