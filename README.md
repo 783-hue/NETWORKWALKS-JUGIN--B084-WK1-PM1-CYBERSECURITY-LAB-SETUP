@@ -306,7 +306,7 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Zenzele Ngobese**\
+**Jugin Zenzele Ngobese**\
 Cybersecurity & Ethical Hacking Intern at Networkwalks B084
 
 LinkedIn: [https://www.linkedin.com/in/zenzele-ngobese-2b5316419/)
