@@ -69,7 +69,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
+![](0-screenshot-title-image.png)
 
 
 Additional target machines can be added to the same virtual network in future projects.
