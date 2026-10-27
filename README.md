@@ -142,7 +142,7 @@ Attached to: NAT Network
 Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 ```
-
+![](2-Screenshot-VM-network-adapter-configuration.png)
 The VM was allocated:
 
 ```text
