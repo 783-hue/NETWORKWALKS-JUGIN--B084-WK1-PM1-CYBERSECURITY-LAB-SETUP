@@ -213,8 +213,6 @@ DNS:
 
 # 🐞 Problems Encountered & Solutions
 
-Documenting problems is an important part of the project.
-
 ## Problem 1. Internet Connectivity After Static IP Configuration
 
 After manually configuring the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration.
