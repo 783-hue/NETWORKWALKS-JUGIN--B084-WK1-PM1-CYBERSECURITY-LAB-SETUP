@@ -163,14 +163,14 @@ Example configuration:
 
 ```text
 IP Address: 10.0.0.2
-Subnet Mask: 24
+Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 10.0.0.1
 ```
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![](3-Screenshot-kali-network-settings.png)
 
 ---
 
